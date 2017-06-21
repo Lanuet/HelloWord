@@ -45,7 +45,7 @@
       <file leaf-file-name="Classroom.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Classroom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="408">
               <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
@@ -622,7 +622,7 @@
       <option name="presentableId" value="Default" />
       <updated>1497957829943</updated>
       <workItem from="1497957837269" duration="718000" />
-      <workItem from="1498012347474" duration="6770000" />
+      <workItem from="1498012347474" duration="7274000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1497958482452</created>
@@ -642,7 +642,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7488000" />
+    <option name="totallyTimeSpent" value="7992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -790,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Classroom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="408">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
